@@ -13,3 +13,5 @@ public class Main {
         System.out.print("\nSum of odd numbers 1 to 100 = " + oddSum);
     }
 }
+
+//or, 100/2 squared
